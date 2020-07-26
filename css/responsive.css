@@ -1,0 +1,271 @@
+
+@media (min-width: 1920px) {
+.work-right-text {
+  padding: 150px 150px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+	
+.slider-content {
+  padding: 146px 0;
+}
+.work-right-text {
+  padding: 40px 0;
+}
+.work-right-text h2 {
+  font-size: 18px;
+  line-height: 28px;
+}
+    
+    
+    
+    
+    
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul.navbar-nav li {
+  display: inline-block;
+  padding: 0 8px;
+}
+.title2 {
+  font-size: 34px;
+}
+.team-content.text-center > h4 {
+  font-size: 20px;
+}
+.feature-icon {
+  font-size: 28px;
+  margin: 0 15px 5px 0;
+}
+.single-feature > h4 {
+  color: #444;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.well-text p {
+  color: #fff;
+  font-size: 13px;
+}
+.single-awesome-portfolio {
+  width: 33.33%;
+}
+.work-right-text {
+  padding: 20px 30px;
+}
+.reviews-area {
+  height: 300px;
+  width: 100%;
+}
+.map-column {
+  margin-left: 0;
+  padding-right: 40px;
+}
+.post-information .entry-meta {
+  font-size: 13px;
+  padding: 5px 0;
+}
+.post-information .entry-meta span a {
+  padding: 4px 0;
+}
+.service-pic {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.single-add-itms {
+  width: 50%;
+}
+.left-sidebar-title > h4 {
+  font-size: 18px;
+}
+.contact-form {
+  margin-top:0px;
+}
+.testimonial-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div{
+  display: none !important;
+}
+.sus-btn {
+  margin-left: 50px;
+}
+
+    
+    
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+	
+.header-area {
+  height: 60px;
+}
+.navbar-header a.navbar-brand{
+  display: inline-block;
+  height: 60px;
+  padding: 15px 0;
+}
+.navbar-default .navbar-toggle{
+  padding: 15px 0;
+}
+.nav.navbar-nav.navbar-right{
+  background-color: #fff;
+  margin-top: 0;
+  padding: 0;
+}
+.main-menu ul.navbar-nav li{
+  display:block;
+}
+.stick .main-menu ul.nav > li > a {
+  padding: 10px 0;
+}
+.stick .navbar-default .navbar-toggle {
+  padding: 19px 0;
+}
+nav.navbar {
+  z-index: 999;
+}
+.main-menu ul.navbar-nav li a{
+  padding: 10px 2px;
+}
+.main-menu ul.navbar-nav li.active a::after{
+  border: 0px solid #fff;
+}
+.logo {
+  height: inherit;
+  left: 0;
+  padding: 0;
+  position: absolute;
+  top: -6px;
+  z-index: 999999;
+}
+.logo a {
+  padding: 0;
+}
+.title1{
+  font-size: 20px;
+}
+.title2 {
+  font-size: 26px;
+}
+.top-btn {
+  font-size: 15px;
+  padding: 8px 9px;
+  width: 110px;
+}
+.section-headline h3 {
+  font-size: 25px;
+}
+.single-well img {
+  margin-bottom: 30px;
+}
+.well-text > h2 {
+  font-size: 26px;
+}
+.wellcome-text {
+  margin: 70px 0;
+  padding: 60px 0px;
+}
+.single-awesome-project.big-project {
+  width: 100%;
+}
+.single-team-member {
+  margin-bottom: 30px;
+}
+.project-menu li a {
+  padding: 8px 12px;
+  margin: 10px 4px;
+}
+.single-awesome-project,.portfolio-2 .single-awesome-project  {
+  width: 100%;
+  float:none;
+}
+.single-blog {
+  margin-bottom: 30px;
+}
+.sus-btn {
+	margin-left: 0;
+	margin-top: 30px;
+}
+.contact-form {
+  margin-top: 30px;
+}
+.head-team h5 {
+  font-size: 22px;
+}
+.footer-content {
+  margin-bottom: 30px;
+}
+.header-bottom h1 {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+.header-bottom h2 {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+li.threaded-comments {
+  margin-left: 0;
+}
+.reviews-area {
+  width: 100%;
+  height: 100%;
+}
+.work-right-text {
+  float: none;
+  height: 100%;
+  padding: 100px 30px;
+  top: 0;
+  width: 100%;
+}
+.testimonial-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div{
+  display: none !important;
+}
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.title1 {
+  font-size: 24px;
+}
+.title2 {
+  font-size: 33px;
+}
+.submitbtn {
+  float: none;
+  width: 99.8%;
+}
+.icons-bottom ul li a {
+  height: 40px;
+  line-height: 37px;
+  width: 40px;
+}
+.blog-post-dlc ul li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.flicker-img img {
+  display: block;
+  width: 100%;
+}
+.work-right-text {
+  float: none;
+  height: 100%;
+  padding: 50px 30px;
+  top: 0;
+  width: 100%;
+}
+    
+    
+}
+ 
